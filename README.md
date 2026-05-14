@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Tsega 👋
 
-<!--
-**TsegaT22/TsegaT22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate from University of North Carolina Greensboro focused on software engineering and full-stack development.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java
+- Spring Boot
+- JavaScript
+- React
+- Node.js
+- PostgreSQL / MySQL
+- Git/GitHub
+- REST APIs
+- C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- CodeQuest - educational game platform using Blockly + Phaser
+- Spartan Small Business Manager -- full-stack business management platform
+- FitnessTrackr - workout and nutrition tracking web application
+
+## Contact
+- LinkedIn: 
+- Email: tsegatakele@outlook.com
+- Portfolio: 
+
