@@ -19,7 +19,7 @@ I am a Computer Science graduate from University of North Carolina Greensboro fo
 - FitnessTrackr - workout and nutrition tracking web application
 
 ## Contact
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/tsega-takele-287a8840a
 - Email: tsegatakele@outlook.com
 - Portfolio: 
 
